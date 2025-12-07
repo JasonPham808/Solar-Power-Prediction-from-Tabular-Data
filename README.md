@@ -336,7 +336,7 @@ Future enhancements could incorporate real-time weather APIs, cloud movement mod
 ## 7. How to Run This Project
 
 1. Clone the repository
-2. Install dependencies using `requirements.txt`
+2. Install dependencies using `requirements.txt.`
 3. Place your CSV dataset into `data/raw/`
 4. Run preprocessing via:
 
